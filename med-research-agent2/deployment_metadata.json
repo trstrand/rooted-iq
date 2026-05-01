@@ -1,0 +1,11 @@
+{
+  "remote_agent_runtime_id": "None",
+  "deployment_timestamp": "None",
+  "pending_operation": {
+    "operation_name": "projects/146619812014/locations/us-central1/reasoningEngines/7469963801610158080/operations/4460542313940123648",
+    "project": "agents-for-fun",
+    "location": "us-central1",
+    "deployment_target": "agent_runtime",
+    "started_at": "2026-05-01T07:31:51.367010+00:00"
+  }
+}

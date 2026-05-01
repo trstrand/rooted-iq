@@ -1,0 +1,11 @@
+[tools]
+python = "3.12"
+node = "24"
+uv = "latest"
+
+[settings]
+python.uv_venv_auto = "create|source"
+
+[env]
+GOOGLE_CLOUD_PROJECT = "agents-for-fun"
+GOOGLE_CLOUD_LOCATION = "us-central1"
